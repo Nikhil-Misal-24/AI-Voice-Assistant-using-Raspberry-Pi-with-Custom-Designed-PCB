@@ -1,0 +1,9 @@
+### Missing 3D models - created on 2026-01-29 00:25
+### Printed by checking_3D_models plugin
+Board file: C:/Users/Smart Computer/Desktop/PCB Project/raspberry pi Project/raspberry pi Project.kicad_pcb
+3D missing models written to:
+C:\Users\Smart Computer\Desktop\PCB Project\raspberry pi Project\raspberry pi Project_missing3Dmodels.txt
+-------
+-------
+NUM of 3D missing models:0
+checked extensions ['.stp', '.step', '.stpZ']
