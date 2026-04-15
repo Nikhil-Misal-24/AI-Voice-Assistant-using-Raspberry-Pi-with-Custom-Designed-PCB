@@ -7,12 +7,12 @@ voice command acquisition, audio output interface for speaker or amplifier conne
 and peripheral interfacing required for reliable Raspberry Pi operation. This hardware-level optimization enhances system stability,
 reduces wiring complexity, and makes the device suitable for real-world deployment.
 
-(i)On the software side, the AI assistant is capable of recognizing voice commands, processing user inputs, executing predefined intelligent actions,
+(i) On the software side, the AI assistant is capable of recognizing voice commands, processing user inputs, executing predefined intelligent actions,
 and interacting with connected IoT devices. The system can be extended to perform tasks such as information retrieval, device control, automation 
 scheduling, and smart environment monitoring. The project demonstrates a practical combination of embedded system design, artificial intelligence 
 concepts, and IoT integration.
 
-(ii)Overall, this project serves as a strong implementation example for students, developers, and researchers interested in embedded AI, robotics,
+(ii) Overall, this project serves as a strong implementation example for students, developers, and researchers interested in embedded AI, robotics,
 smart home systems, and edge computing applications. It highlights the importance of hardware-software co-design in building scalable and efficient
 intelligent assistant solutions.
 
