@@ -31,4 +31,4 @@ AI-Based Voice Assistant (Raspberry Pi + Custom PCB) - Block Diagram
 4) Output Section (Feedback & Action):
    Speaker: Voice response deta hai.
    IoT Devices/Relays: Smart automation commands ko execute karta hai (jaise lights off karna).
-   Status LEDs: System ka current status indicate karta hai (Listening, Processing, etc.).
+   Status LEDs: System ka current status indicate karta hai (Listening, Processing, etc.)
