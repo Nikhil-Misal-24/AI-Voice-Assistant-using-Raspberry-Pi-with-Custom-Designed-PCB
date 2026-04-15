@@ -21,14 +21,17 @@ AI-Based Voice Assistant (Raspberry Pi + Custom PCB) - Block Diagram
 1) Input Section (Voice Acquisition):
    Microphone Module: User ki voice commands ko capture karta hai.
    I2S/USB Interface: Analog voice signal ko digital data mein convert karke Raspberry Pi tak pahunchata hai.
-2) Processing Section (The Brain - Raspberry Pi):
+   
+3) Processing Section (The Brain - Raspberry Pi):
    Raspberry Pi: Central processing unit jo sabhi operations ko coordinate karta hai.
    Software Stack: Ismein Speech-to-Text (STT), Intent Analysis (NLP), aur Text-to-Speech (TTS) engine shaamil hain.
-3) Hardware Interface (Custom PCB):
+   
+4) Hardware Interface (Custom PCB):
    Voltage Regulation: Raspberry Pi aur peripherals ke liye stable power supply assure karta hai.
    Audio Amplifier Circuit: Audio signal ko amplify karta hai taaki speaker se clear sound aaye.
    Peripheral Connectivity: GPIO pins ke through sensors ya other devices ko connect karta hai.
-4) Output Section (Feedback & Action):
+   
+5) Output Section (Feedback & Action):
    Speaker: Voice response deta hai.
    IoT Devices/Relays: Smart automation commands ko execute karta hai (jaise lights off karna).
    Status LEDs: System ka current status indicate karta hai (Listening, Processing, etc.)
